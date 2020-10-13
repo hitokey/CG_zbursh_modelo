@@ -1,9 +1,9 @@
 # CG_zbursh_modelo
 Trabalho Final - Modelagem - Computação Gráfica 
 
-#Busto finalizado. 
+# Busto finalizado. 
 
-##Render:
+## Render:
 ![Enfige Busto](ff.jpg)
 
 ## Download files
