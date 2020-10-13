@@ -7,7 +7,4 @@ Trabalho Final - Modelagem - Computação Gráfica
 ![Enfige Busto](ff.jpg)
 
 ## Download files
-
-![Object File]()
-
-![Zbrush File]()
+https://drive.google.com/drive/folders/1yCMsj4tNqtOxLeFxrJ-z4gKnw0JfwKyv
