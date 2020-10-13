@@ -4,4 +4,7 @@ Trabalho Final - Modelagem - Computação Gráfica
 Busto finalizado. 
 
 Render:
-[Esfige Render:][./ff.png]
+[ff.png][Enfige Busto]
+
+[][Object File]
+[][Zbrush File]
